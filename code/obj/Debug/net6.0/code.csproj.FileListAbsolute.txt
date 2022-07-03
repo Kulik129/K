@@ -1,0 +1,15 @@
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/bin/Debug/net6.0/code
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/bin/Debug/net6.0/code.deps.json
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/bin/Debug/net6.0/code.runtimeconfig.json
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/bin/Debug/net6.0/code.dll
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/bin/Debug/net6.0/code.pdb
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/obj/Debug/net6.0/code.csproj.AssemblyReference.cache
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/obj/Debug/net6.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/obj/Debug/net6.0/code.AssemblyInfoInputs.cache
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/obj/Debug/net6.0/code.AssemblyInfo.cs
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/obj/Debug/net6.0/code.csproj.CoreCompileInputs.cache
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/obj/Debug/net6.0/code.dll
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/obj/Debug/net6.0/refint/code.dll
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/obj/Debug/net6.0/code.pdb
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/obj/Debug/net6.0/code.genruntimeconfig.cache
+/Users/mitya.kulikbk.ru/Desktop/контрольная/code/obj/Debug/net6.0/ref/code.dll
